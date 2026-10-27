@@ -1,0 +1,2039 @@
+{
+  "profiles": [
+    {
+      "id": "26c47578-6865-4a69-9dcd-264cac107ee5",
+      "email": "test@example.com",
+      "full_name": "Test User",
+      "role": "student",
+      "education_level": "Undergraduate",
+      "degree": "B.Tech / B.E. in Computer Science",
+      "specialization": "",
+      "graduation_year": 2026,
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Problem Solving"
+      ],
+      "interests": [
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "experience_level": "Student / Fresher",
+      "preferred_role": "Software Developer",
+      "preferred_location": "Anywhere / Remote",
+      "preferred_work_mode": "remote",
+      "preferred_language": "en",
+      "password_hash": "$2a$10$xagZe7b4RowY6oEeTIHpZ.b4wCkL5wl/wFGkPdrD5oHlfOVr2znzK",
+      "created_at": "2026-10-26T08:26:23.227Z",
+      "updated_at": "2026-10-26T08:26:23.231Z"
+    },
+    {
+      "id": "d0000000-0000-0000-0000-000000000001",
+      "email": "admin@aicareer.com",
+      "full_name": "Dr. Ramesh Kumar (Admin)",
+      "role": "admin",
+      "education_level": "Postgraduate",
+      "degree": "Ph.D. in Computer Science",
+      "specialization": "Artificial Intelligence & Career Systems",
+      "graduation_year": 2018,
+      "skills": [
+        "System Architecture",
+        "PostgreSQL",
+        "AI Strategy",
+        "Leadership"
+      ],
+      "interests": [
+        "Career Development",
+        "Engineering Education"
+      ],
+      "experience_level": "Senior Professional",
+      "preferred_role": "Administrator",
+      "preferred_location": "India",
+      "preferred_work_mode": "remote",
+      "preferred_language": "en",
+      "password_hash": "$2a$10$StM2fo2m6iQ4ca17dzy1C.leAG7VAUXlusG7buxR1NkhZ0EeZUYGK",
+      "created_at": "2026-01-01T00:00:00.000Z",
+      "updated_at": "2026-10-26T08:42:54.827Z"
+    },
+    {
+      "id": "d0000000-0000-0000-0000-000000000002",
+      "email": "priya.sharma@example.edu",
+      "full_name": "Priya Sharma",
+      "role": "student",
+      "education_level": "Undergraduate",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "specialization": "Computer Science",
+      "graduation_year": 2026,
+      "skills": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Python",
+        "SQL",
+        "Git",
+        "Data Structures",
+        "HTML5",
+        "Tailwind CSS"
+      ],
+      "interests": [
+        "Software Engineering",
+        "Artificial Intelligence & ML",
+        "Full Stack Web Development"
+      ],
+      "experience_level": "Student / Fresher",
+      "preferred_role": "Software Developer",
+      "preferred_location": "Chennai / Bangalore / Remote",
+      "preferred_work_mode": "hybrid",
+      "preferred_language": "en",
+      "password_hash": "$2a$10$o5mIx8aO7uYFqMJ4SNBUseAumBMB6A545zl8cir47N6k/mkOHDcou",
+      "created_at": "2026-02-15T00:00:00.000Z",
+      "updated_at": "2026-10-26T08:42:54.827Z"
+    },
+    {
+      "id": "e50a78d6-46f0-4800-8a25-ac08f9442417",
+      "email": "ppsiva39@gmail.com",
+      "full_name": "saranya",
+      "role": "student",
+      "education_level": "Recent Graduate",
+      "degree": "Electronics & Communication",
+      "specialization": "",
+      "graduation_year": 2026,
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Problem Solving"
+      ],
+      "interests": [
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "experience_level": "Student / Fresher",
+      "preferred_role": "Software Developer",
+      "preferred_location": "Anywhere / Remote",
+      "preferred_work_mode": "remote",
+      "preferred_language": "en",
+      "password_hash": "$2a$10$inw74/PRwQ/MnwgRqSp2xuzMWc2XzcpMVDhHk5v/Mo/zMTyV74/o6",
+      "created_at": "2026-10-26T08:52:46.225Z",
+      "updated_at": "2026-10-26T08:52:46.225Z"
+    }
+  ],
+  "career_roles": [
+    {
+      "id": "a1111111-1111-1111-1111-111111111101",
+      "title": "Software Developer",
+      "category": "Software Engineering",
+      "description": "Designs, builds, and maintains robust backend systems, APIs, and business applications using modern programming principles.",
+      "required_technical_skills": [
+        "Java",
+        "Python",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "SQL",
+        "Object-Oriented Programming"
+      ],
+      "required_soft_skills": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging Persistence",
+        "Clear Communication"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Electronics & Communication",
+        "BCA/MCA"
+      ],
+      "beginner_projects": [
+        {
+          "title": "CLI Task & Expense Manager",
+          "desc": "Build an interactive command-line app with file/SQLite storage and CRUD commands."
+        },
+        {
+          "title": "RESTful Inventory API",
+          "desc": "Create a Node.js/Python microservice with JWT auth, database persistence, and documentation."
+        },
+        {
+          "title": "URL Shortener with Analytics",
+          "desc": "Design an efficient redirect service tracking click counts, timestamps, and referrers."
+        }
+      ],
+      "market_demand": "Very High",
+      "avg_salary_range": "₹6,00,000 - ₹14,00,000 / $75,000 - $125,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111102",
+      "title": "AI/ML Engineer",
+      "category": "Artificial Intelligence & Data",
+      "description": "Develops and productionizes machine learning models, neural networks, and generative AI pipelines for predictive and intelligent systems.",
+      "required_technical_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-Learn",
+        "Linear Algebra",
+        "Data Preprocessing",
+        "FastAPI",
+        "LLM APIs"
+      ],
+      "required_soft_skills": [
+        "Analytical Thinking",
+        "Research Mindset",
+        "Experimental Rigor",
+        "Data Storytelling"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Data Science",
+        "Mathematics",
+        "Statistics"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Customer Churn Predictor",
+          "desc": "Train and tune a classifier on customer behavior data with precision/recall trade-off analysis."
+        },
+        {
+          "title": "Document Q&A RAG System",
+          "desc": "Build a retrieval-augmented generation app using Gemini and vector embeddings for PDF search."
+        },
+        {
+          "title": "Transfer Learning Image Classifier",
+          "desc": "Fine-tune a ResNet model to categorize defective components or medical scans."
+        }
+      ],
+      "market_demand": "Extremely High",
+      "avg_salary_range": "₹8,00,000 - ₹20,00,000 / $95,000 - $160,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111103",
+      "title": "Data Analyst",
+      "category": "Data & Business Intelligence",
+      "description": "Translates raw tabular data into executive dashboards, KPIs, and actionable insights to guide business strategies.",
+      "required_technical_skills": [
+        "SQL",
+        "Python",
+        "Excel & Spreadsheets",
+        "Power BI",
+        "Tableau",
+        "Exploratory Data Analysis",
+        "Statistics"
+      ],
+      "required_soft_skills": [
+        "Storytelling with Data",
+        "Attention to Detail",
+        "Business Acumen",
+        "Curiosity"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Information Systems",
+        "Economics",
+        "Commerce",
+        "Business Administration",
+        "BBA/BCA"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Executive Sales Performance Dashboard",
+          "desc": "Clean e-commerce dataset, compute sales velocities, and build interactive Power BI charts."
+        },
+        {
+          "title": "E-Commerce Churn & Retention Analysis",
+          "desc": "Segment customer cohorts using SQL and write a managerial report with visual charts."
+        },
+        {
+          "title": "Regional Healthcare Trends Explorer",
+          "desc": "Analyze open public health records using Python Pandas and Matplotlib/Seaborn."
+        }
+      ],
+      "market_demand": "High",
+      "avg_salary_range": "₹5,00,000 - ₹11,00,000 / $65,000 - $100,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111104",
+      "title": "Data Scientist",
+      "category": "Artificial Intelligence & Data",
+      "description": "Combines statistical modeling, data engineering, and machine learning to uncover deep patterns and build automated predictive engines.",
+      "required_technical_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Statistical Modeling",
+        "Machine Learning",
+        "A/B Testing",
+        "Pandas",
+        "NumPy"
+      ],
+      "required_soft_skills": [
+        "Critical Thinking",
+        "Hypothesis Testing",
+        "Scientific Communication",
+        "Domain Knowledge"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Mathematics",
+        "Physics",
+        "Quantitative Engineering"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Credit Risk Scoring Engine",
+          "desc": "Build an interpretable logistic regression and XGBoost model evaluating loan default probability."
+        },
+        {
+          "title": "Movie Recommendation Engine",
+          "desc": "Implement collaborative filtering and matrix factorization on the MovieLens dataset."
+        },
+        {
+          "title": "Time-Series Demand Forecaster",
+          "desc": "Forecast retail store demand using ARIMA and Prophet with cross-validation."
+        }
+      ],
+      "market_demand": "Very High",
+      "avg_salary_range": "₹7,50,000 - ₹18,00,000 / $90,000 - $145,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111105",
+      "title": "Web Developer",
+      "category": "Web & Cloud Systems",
+      "description": "Builds responsive, performant, and accessible full-stack web applications from interactive client UIs to server-side APIs.",
+      "required_technical_skills": [
+        "HTML5",
+        "CSS3 / Tailwind",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Express",
+        "REST APIs"
+      ],
+      "required_soft_skills": [
+        "User Empathy",
+        "Visual Aesthetics",
+        "Responsive Design Mindset",
+        "Teamwork"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Information Technology",
+        "Web Development",
+        "Any Engineering or Science Graduate"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Modern E-Commerce Storefront",
+          "desc": "Build a catalog, shopping cart, checkout flow with filterable categories and responsive layout."
+        },
+        {
+          "title": "Collaborative Real-Time Workspace",
+          "desc": "Develop a kanban board or markdown editor with live synchronization and persistent storage."
+        },
+        {
+          "title": "Dev Community Forum App",
+          "desc": "Create post creation, voting, nested replies, user authentication, and profile badges."
+        }
+      ],
+      "market_demand": "High",
+      "avg_salary_range": "₹5,00,000 - ₹12,00,000 / $70,000 - $115,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111106",
+      "title": "Cybersecurity Analyst",
+      "category": "Security & Infrastructure",
+      "description": "Guards networks, applications, and cloud environments against breaches, performs threat assessments, and responds to incidents.",
+      "required_technical_skills": [
+        "Networking (TCP/IP)",
+        "Linux CLI",
+        "Vulnerability Scanning",
+        "Wireshark",
+        "SIEM Tools",
+        "Cryptography Basics",
+        "Security Auditing"
+      ],
+      "required_soft_skills": [
+        "Vigilance",
+        "Ethical Integrity",
+        "Crisis Calmness",
+        "Analytical Investigation"
+      ],
+      "suitable_degrees": [
+        "Cybersecurity",
+        "Computer Science",
+        "Information Technology",
+        "Network Engineering"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Home Lab Network Vulnerability Assessment",
+          "desc": "Set up vulnerable VMs (Metasploitable) and conduct safe port scanning and vulnerability reporting."
+        },
+        {
+          "title": "Snort/Suricata Intrusion Detection Setup",
+          "desc": "Configure an open-source IDS to inspect packet captures and trigger alerts on simulated attacks."
+        },
+        {
+          "title": "Automated Log Analyzer in Python",
+          "desc": "Parse Nginx/Apache auth logs to identify brute-force login attempts and generate IP blocklists."
+        }
+      ],
+      "market_demand": "Very High",
+      "avg_salary_range": "₹6,50,000 - ₹15,00,000 / $80,000 - $130,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111107",
+      "title": "Cloud Engineer",
+      "category": "Cloud & DevOps",
+      "description": "Deploys and optimizes resilient cloud infrastructure, automates containerized deployments, and monitors cloud reliability.",
+      "required_technical_skills": [
+        "AWS / Azure / GCP",
+        "Docker",
+        "Kubernetes",
+        "Linux Administration",
+        "Terraform",
+        "CI/CD Pipelines",
+        "Networking & DNS"
+      ],
+      "required_soft_skills": [
+        "Systems Thinking",
+        "Automation Mindset",
+        "Cost Consciousness",
+        "High Reliability Focus"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Information Technology",
+        "Cloud Computing",
+        "Electronics"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Infrastructure-as-Code Web Cluster",
+          "desc": "Provision a load balancer, VPC, and auto-scaling EC2 instances using Terraform."
+        },
+        {
+          "title": "Containerized Microservice on Kubernetes",
+          "desc": "Dockerize a multi-tier app and write Kubernetes Deployments, Services, and Ingress manifests."
+        },
+        {
+          "title": "Automated CI/CD Pipeline",
+          "desc": "Create a GitHub Actions workflow testing code, building Docker images, and deploying to AWS/GCP."
+        }
+      ],
+      "market_demand": "Very High",
+      "avg_salary_range": "₹7,00,000 - ₹16,00,000 / $85,000 - $140,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111108",
+      "title": "UI/UX Designer",
+      "category": "Design & Product Experience",
+      "description": "Crafts intuitive, visually polished digital experiences through user research, wireframing, component libraries, and usability testing.",
+      "required_technical_skills": [
+        "Figma",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Design Systems",
+        "Usability Testing",
+        "Information Architecture",
+        "HTML/CSS Basics"
+      ],
+      "required_soft_skills": [
+        "Empathy",
+        "Visual Communication",
+        "Active Listening",
+        "Design Critique Receptivity"
+      ],
+      "suitable_degrees": [
+        "Design",
+        "Human-Computer Interaction",
+        "Computer Science",
+        "Fine Arts",
+        "Psychology"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Mobile Banking App Redesign Case Study",
+          "desc": "Identify UX pain points in existing banking apps and design a polished, accessible Figma flow."
+        },
+        {
+          "title": "B2B SaaS Design System",
+          "desc": "Build a comprehensive tokenized component library with auto-layout, variants, and dark mode in Figma."
+        },
+        {
+          "title": "Student Learning Platform Prototype",
+          "desc": "Conduct interviews with 5 students, map user journeys, and create clickable high-fidelity prototypes."
+        }
+      ],
+      "market_demand": "High",
+      "avg_salary_range": "₹5,00,000 - ₹13,00,000 / $70,000 - $115,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111109",
+      "title": "Business Analyst",
+      "category": "Business & Product Strategy",
+      "description": "Translates high-level business goals into functional engineering specifications, user stories, and process optimization models.",
+      "required_technical_skills": [
+        "Requirements Gathering",
+        "Agile / Scrum",
+        "JIRA",
+        "Process Mapping (BPMN)",
+        "SQL Basics",
+        "Data Analysis",
+        "User Stories Writing"
+      ],
+      "required_soft_skills": [
+        "Stakeholder Management",
+        "Negotiation",
+        "Clarity in Communication",
+        "Strategic Thinking"
+      ],
+      "suitable_degrees": [
+        "Business Administration",
+        "Information Systems",
+        "Computer Science",
+        "Commerce",
+        "Engineering"
+      ],
+      "beginner_projects": [
+        {
+          "title": "FinTech App Business Requirements Document (BRD)",
+          "desc": "Write comprehensive functional specifications, acceptance criteria, and edge cases."
+        },
+        {
+          "title": "As-Is vs To-Be Process Workflow Map",
+          "desc": "Model an existing customer onboarding pipeline and present an optimized BPMN flow."
+        },
+        {
+          "title": "Feature Prioritization Matrix",
+          "desc": "Analyze competitive SaaS products and build an impact-vs-effort scoring matrix for product teams."
+        }
+      ],
+      "market_demand": "Moderate to High",
+      "avg_salary_range": "₹6,00,000 - ₹13,00,000 / $75,000 - $110,000"
+    },
+    {
+      "id": "a1111111-1111-1111-1111-111111111110",
+      "title": "QA Engineer",
+      "category": "Quality Assurance & Testing",
+      "description": "Ensures software quality, stability, and speed by designing automated test suites, executing stress tests, and tracking bugs.",
+      "required_technical_skills": [
+        "Selenium",
+        "Cypress / Playwright",
+        "Postman / API Testing",
+        "JavaScript / Python",
+        "Test Case Authoring",
+        "JIRA",
+        "Git"
+      ],
+      "required_soft_skills": [
+        "Meticulous Attention",
+        "Bug Advocacy",
+        "Constructive Questioning",
+        "Patience"
+      ],
+      "suitable_degrees": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Any Engineering Graduate"
+      ],
+      "beginner_projects": [
+        {
+          "title": "Automated E2E Testing Suite with Playwright",
+          "desc": "Write automated browser test scripts verifying registration, cart additions, and payment checkout."
+        },
+        {
+          "title": "Automated API Test Collection in Postman",
+          "desc": "Build test scripts validating status codes, response times, and schema assertions for public APIs."
+        },
+        {
+          "title": "Performance Load Benchmark with k6",
+          "desc": "Simulate concurrent user traffic on a sample web app and analyze latency and error rates."
+        }
+      ],
+      "market_demand": "Moderate to High",
+      "avg_salary_range": "₹4,50,000 - ₹10,50,000 / $65,000 - $105,000"
+    }
+  ],
+  "learning_resources": [
+    {
+      "id": "res-1",
+      "skill": "JavaScript (ES6+)",
+      "title": "MDN JavaScript Guide & Reference",
+      "provider": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-2",
+      "skill": "React",
+      "title": "React Official Documentation & Interactive Tour",
+      "provider": "React.dev",
+      "url": "https://react.dev/learn",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-3",
+      "skill": "React",
+      "title": "Full Modern React Course",
+      "provider": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/news/learn-react-by-building-apps/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-4",
+      "skill": "Python",
+      "title": "Python for Everybody Specialization",
+      "provider": "freeCodeCamp / Coursera",
+      "url": "https://www.freecodecamp.org/news/python-for-everybody/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-5",
+      "skill": "Data Structures",
+      "title": "CS50: Introduction to Computer Science",
+      "provider": "Harvard / edX",
+      "url": "https://cs50.harvard.edu/x/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-6",
+      "skill": "Algorithms",
+      "title": "NeetCode Algorithm Roadmaps",
+      "provider": "NeetCode.io",
+      "url": "https://neetcode.io/roadmap",
+      "is_free": true,
+      "level": "intermediate"
+    },
+    {
+      "id": "res-7",
+      "skill": "SQL",
+      "title": "SQL Tutorial & Interactive Practice",
+      "provider": "SQLZoo",
+      "url": "https://sqlzoo.net/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-8",
+      "skill": "Git",
+      "title": "Introduction to GitHub & Git CLI",
+      "provider": "GitHub Skills",
+      "url": "https://skills.github.com/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-9",
+      "skill": "Docker",
+      "title": "Docker Official Getting Started Guide",
+      "provider": "Docker Docs",
+      "url": "https://docs.docker.com/get-started/",
+      "is_free": true,
+      "level": "intermediate"
+    },
+    {
+      "id": "res-10",
+      "skill": "AWS / Azure / GCP",
+      "title": "AWS Cloud Essentials Digital Course",
+      "provider": "AWS Skill Builder",
+      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-11",
+      "skill": "Figma",
+      "title": "Figma for Beginners UI Design System",
+      "provider": "Figma Learn",
+      "url": "https://help.figma.com/hc/en-us/categories/360002051613-Figma-for-beginners",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-12",
+      "skill": "PyTorch",
+      "title": "PyTorch Official 60-Minute Blitz & Tutorials",
+      "provider": "PyTorch.org",
+      "url": "https://pytorch.org/tutorials/",
+      "is_free": true,
+      "level": "intermediate"
+    },
+    {
+      "id": "res-13",
+      "skill": "Scikit-Learn",
+      "title": "Machine Learning with Python & Scikit-Learn",
+      "provider": "Scikit-Learn Docs",
+      "url": "https://scikit-learn.org/stable/tutorial/index.html",
+      "is_free": true,
+      "level": "intermediate"
+    },
+    {
+      "id": "res-14",
+      "skill": "CSS3 / Tailwind",
+      "title": "Tailwind CSS Official Core Concepts",
+      "provider": "Tailwind CSS Docs",
+      "url": "https://tailwindcss.com/docs/utility-first",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-15",
+      "skill": "Cypress / Playwright",
+      "title": "Playwright Fast & Reliable E2E Testing",
+      "provider": "Playwright Docs",
+      "url": "https://playwright.dev/docs/intro",
+      "is_free": true,
+      "level": "beginner"
+    },
+    {
+      "id": "res-16",
+      "skill": "Networking (TCP/IP)",
+      "title": "Computer Networking Basics",
+      "provider": "Khan Academy",
+      "url": "https://www.khanacademy.org/computing/computers-and-internet-analyzing-data",
+      "is_free": true,
+      "level": "beginner"
+    }
+  ],
+  "career_assessments": [
+    {
+      "id": "d0000000-0000-0000-0000-000000000003",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "education": "B.Tech in Computer Science and Engineering",
+      "technical_skills": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Python",
+        "SQL",
+        "Git",
+        "Data Structures",
+        "HTML5",
+        "Tailwind CSS"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging Persistence"
+      ],
+      "interests": [
+        "Software Engineering",
+        "Artificial Intelligence & ML",
+        "Full Stack Web Development"
+      ],
+      "experience_level": "Student / Fresher",
+      "projects_and_certifications": "Built full-stack book store with React and Express; completed Python on Coursera.",
+      "preferred_work_mode": "hybrid",
+      "career_goals": "Aspiring to join an innovative product engineering company as a software developer.",
+      "created_at": "2026-02-16T00:00:00.000Z"
+    }
+  ],
+  "career_recommendations": [
+    {
+      "id": "rec-1",
+      "assessment_id": "d0000000-0000-0000-0000-000000000003",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role_id": "a1111111-1111-1111-1111-111111111101",
+      "role_title": "Software Developer",
+      "category": "Software Engineering",
+      "description": "Designs, builds, and maintains robust backend systems, APIs, and business applications using modern programming principles.",
+      "match_percentage": 57,
+      "score_breakdown": {
+        "technical_skills": {
+          "score": 28,
+          "max": 45,
+          "matching": 5,
+          "total": 8
+        },
+        "soft_skills_and_interests": {
+          "score": 0,
+          "max": 25,
+          "matching": 0,
+          "total": 4
+        },
+        "education_alignment": {
+          "score": 15,
+          "max": 15
+        },
+        "experience_suitability": {
+          "score": 14,
+          "max": 15
+        },
+        "methodology_notice": "Match score is a transparent multi-factor heuristic estimate calculated from your submitted skills, education, and interests to guide your learning focus. It is not an employer hiring guarantee."
+      },
+      "matching_skills": [
+        "Java",
+        "Python",
+        "Data Structures",
+        "Git",
+        "SQL"
+      ],
+      "missing_skills": [
+        "Algorithms",
+        "REST APIs",
+        "Object-Oriented Programming"
+      ],
+      "matching_soft_skills": [],
+      "missing_soft_skills": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging Persistence",
+        "Clear Communication"
+      ],
+      "suitability_reason": "Strong match based on your existing proficiency in Java, Python, Data Structures and your academic background in B.Tech in Computer Science and Engineering.",
+      "suggested_resources": [
+        {
+          "skill": "Algorithms",
+          "title": "NeetCode Algorithm Roadmaps",
+          "provider": "NeetCode.io",
+          "url": "https://neetcode.io/roadmap",
+          "is_free": true,
+          "level": "intermediate"
+        },
+        {
+          "title": "REST APIs Documentation & Practice Guide",
+          "skill": "REST APIs",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=REST%20APIs%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        },
+        {
+          "title": "Object-Oriented Programming Documentation & Practice Guide",
+          "skill": "Object-Oriented Programming",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=Object-Oriented%20Programming%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        }
+      ],
+      "beginner_projects": [
+        {
+          "title": "CLI Task & Expense Manager",
+          "desc": "Build an interactive command-line app with file/SQLite storage and CRUD commands."
+        },
+        {
+          "title": "RESTful Inventory API",
+          "desc": "Create a Node.js/Python microservice with JWT auth, database persistence, and documentation."
+        },
+        {
+          "title": "URL Shortener with Analytics",
+          "desc": "Design an efficient redirect service tracking click counts, timestamps, and referrers."
+        }
+      ],
+      "job_search_links": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Software%20Developer&location=Chennai%20%2F%20Bangalore%20%2F%20Remote&f_E=1%2C2",
+        "indeed": "https://www.indeed.com/jobs?q=Software%20Developer+entry+level&l=Chennai%20%2F%20Bangalore%20%2F%20Remote",
+        "naukri": "https://www.naukri.com/software-developer-jobs-in-chennai---bangalore---remote?experience=0"
+      },
+      "market_demand": "Very High",
+      "avg_salary_range": "₹6,00,000 - ₹14,00,000 / $75,000 - $125,000",
+      "created_at": "2026-10-26T08:42:54.834Z"
+    },
+    {
+      "id": "rec-2",
+      "assessment_id": "d0000000-0000-0000-0000-000000000003",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role_id": "a1111111-1111-1111-1111-111111111105",
+      "role_title": "Web Developer",
+      "category": "Web & Cloud Systems",
+      "description": "Builds responsive, performant, and accessible full-stack web applications from interactive client UIs to server-side APIs.",
+      "match_percentage": 52,
+      "score_breakdown": {
+        "technical_skills": {
+          "score": 23,
+          "max": 45,
+          "matching": 4,
+          "total": 8
+        },
+        "soft_skills_and_interests": {
+          "score": 0,
+          "max": 25,
+          "matching": 0,
+          "total": 4
+        },
+        "education_alignment": {
+          "score": 15,
+          "max": 15
+        },
+        "experience_suitability": {
+          "score": 14,
+          "max": 15
+        },
+        "methodology_notice": "Match score is a transparent multi-factor heuristic estimate calculated from your submitted skills, education, and interests to guide your learning focus. It is not an employer hiring guarantee."
+      },
+      "matching_skills": [
+        "HTML5",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React"
+      ],
+      "missing_skills": [
+        "CSS3 / Tailwind",
+        "Node.js",
+        "Express",
+        "REST APIs"
+      ],
+      "matching_soft_skills": [],
+      "missing_soft_skills": [
+        "User Empathy",
+        "Visual Aesthetics",
+        "Responsive Design Mindset",
+        "Teamwork"
+      ],
+      "suitability_reason": "Strong match based on your existing proficiency in HTML5, JavaScript (ES6+), TypeScript and your academic background in B.Tech in Computer Science and Engineering.",
+      "suggested_resources": [
+        {
+          "skill": "CSS3 / Tailwind",
+          "title": "Tailwind CSS Official Core Concepts",
+          "provider": "Tailwind CSS Docs",
+          "url": "https://tailwindcss.com/docs/utility-first",
+          "is_free": true,
+          "level": "beginner"
+        },
+        {
+          "title": "Node.js Documentation & Practice Guide",
+          "skill": "Node.js",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=Node.js%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        },
+        {
+          "title": "Express Documentation & Practice Guide",
+          "skill": "Express",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=Express%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        },
+        {
+          "title": "REST APIs Documentation & Practice Guide",
+          "skill": "REST APIs",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=REST%20APIs%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        }
+      ],
+      "beginner_projects": [
+        {
+          "title": "Modern E-Commerce Storefront",
+          "desc": "Build a catalog, shopping cart, checkout flow with filterable categories and responsive layout."
+        },
+        {
+          "title": "Collaborative Real-Time Workspace",
+          "desc": "Develop a kanban board or markdown editor with live synchronization and persistent storage."
+        },
+        {
+          "title": "Dev Community Forum App",
+          "desc": "Create post creation, voting, nested replies, user authentication, and profile badges."
+        }
+      ],
+      "job_search_links": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Web%20Developer&location=Chennai%20%2F%20Bangalore%20%2F%20Remote&f_E=1%2C2",
+        "indeed": "https://www.indeed.com/jobs?q=Web%20Developer+entry+level&l=Chennai%20%2F%20Bangalore%20%2F%20Remote",
+        "naukri": "https://www.naukri.com/web-developer-jobs-in-chennai---bangalore---remote?experience=0"
+      },
+      "market_demand": "High",
+      "avg_salary_range": "₹5,00,000 - ₹12,00,000 / $70,000 - $115,000",
+      "created_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "rec-3",
+      "assessment_id": "d0000000-0000-0000-0000-000000000003",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role_id": "a1111111-1111-1111-1111-111111111102",
+      "role_title": "AI/ML Engineer",
+      "category": "Artificial Intelligence & Data",
+      "description": "Develops and productionizes machine learning models, neural networks, and generative AI pipelines for predictive and intelligent systems.",
+      "match_percentage": 35,
+      "score_breakdown": {
+        "technical_skills": {
+          "score": 6,
+          "max": 45,
+          "matching": 1,
+          "total": 8
+        },
+        "soft_skills_and_interests": {
+          "score": 0,
+          "max": 25,
+          "matching": 0,
+          "total": 4
+        },
+        "education_alignment": {
+          "score": 15,
+          "max": 15
+        },
+        "experience_suitability": {
+          "score": 14,
+          "max": 15
+        },
+        "methodology_notice": "Match score is a transparent multi-factor heuristic estimate calculated from your submitted skills, education, and interests to guide your learning focus. It is not an employer hiring guarantee."
+      },
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-Learn",
+        "Linear Algebra",
+        "Data Preprocessing",
+        "FastAPI",
+        "LLM APIs"
+      ],
+      "matching_soft_skills": [],
+      "missing_soft_skills": [
+        "Analytical Thinking",
+        "Research Mindset",
+        "Experimental Rigor",
+        "Data Storytelling"
+      ],
+      "suitability_reason": "Promising alignment with your foundational knowledge of Python. By completing targeted upskilling in PyTorch and TensorFlow, you will be well-prepared for entry-level openings.",
+      "suggested_resources": [
+        {
+          "skill": "PyTorch",
+          "title": "PyTorch Official 60-Minute Blitz & Tutorials",
+          "provider": "PyTorch.org",
+          "url": "https://pytorch.org/tutorials/",
+          "is_free": true,
+          "level": "intermediate"
+        },
+        {
+          "title": "TensorFlow Documentation & Practice Guide",
+          "skill": "TensorFlow",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=TensorFlow%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        },
+        {
+          "skill": "Scikit-Learn",
+          "title": "Machine Learning with Python & Scikit-Learn",
+          "provider": "Scikit-Learn Docs",
+          "url": "https://scikit-learn.org/stable/tutorial/index.html",
+          "is_free": true,
+          "level": "intermediate"
+        },
+        {
+          "title": "Linear Algebra Documentation & Practice Guide",
+          "skill": "Linear Algebra",
+          "provider": "Official Docs & Tutorials",
+          "url": "https://www.google.com/search?q=Linear%20Algebra%20beginner%20tutorial%20documentation",
+          "is_free": true,
+          "level": "beginner"
+        }
+      ],
+      "beginner_projects": [
+        {
+          "title": "Customer Churn Predictor",
+          "desc": "Train and tune a classifier on customer behavior data with precision/recall trade-off analysis."
+        },
+        {
+          "title": "Document Q&A RAG System",
+          "desc": "Build a retrieval-augmented generation app using Gemini and vector embeddings for PDF search."
+        },
+        {
+          "title": "Transfer Learning Image Classifier",
+          "desc": "Fine-tune a ResNet model to categorize defective components or medical scans."
+        }
+      ],
+      "job_search_links": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=AI%2FML%20Engineer&location=Chennai%20%2F%20Bangalore%20%2F%20Remote&f_E=1%2C2",
+        "indeed": "https://www.indeed.com/jobs?q=AI%2FML%20Engineer+entry+level&l=Chennai%20%2F%20Bangalore%20%2F%20Remote",
+        "naukri": "https://www.naukri.com/ai-ml-engineer-jobs-in-chennai---bangalore---remote?experience=0"
+      },
+      "market_demand": "Extremely High",
+      "avg_salary_range": "₹8,00,000 - ₹20,00,000 / $95,000 - $160,000",
+      "created_at": "2026-10-26T08:42:54.835Z"
+    }
+  ],
+  "skill_progress": [
+    {
+      "id": "sp-1",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Java",
+      "priority": "high",
+      "status": "in_progress",
+      "progress_percent": 60,
+      "estimated_duration": "2-3 Weeks",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-2",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Python",
+      "priority": "high",
+      "status": "completed",
+      "progress_percent": 100,
+      "estimated_duration": "Mastered",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-3",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Data Structures",
+      "priority": "high",
+      "status": "completed",
+      "progress_percent": 100,
+      "estimated_duration": "Mastered",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-4",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Algorithms",
+      "priority": "high",
+      "status": "in_progress",
+      "progress_percent": 70,
+      "estimated_duration": "3-4 Weeks",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-5",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "SQL",
+      "priority": "medium",
+      "status": "completed",
+      "progress_percent": 100,
+      "estimated_duration": "Mastered",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-6",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Git",
+      "priority": "medium",
+      "status": "completed",
+      "progress_percent": 100,
+      "estimated_duration": "Mastered",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-7",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "REST APIs",
+      "priority": "medium",
+      "status": "in_progress",
+      "progress_percent": 50,
+      "estimated_duration": "1-2 Weeks",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "sp-8",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "category": "technical",
+      "skill_name": "Object-Oriented Programming",
+      "priority": "low",
+      "status": "completed",
+      "progress_percent": 100,
+      "estimated_duration": "Mastered",
+      "learning_url": "https://developer.mozilla.org",
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    }
+  ],
+  "learning_roadmaps": [
+    {
+      "id": "c96a3e0d-0505-436f-b160-c7a4d8fb916a",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "phases": [
+        {
+          "phase": 1,
+          "title": "Phase 1: Fundamentals & Computer Science Core",
+          "duration": "4 - 6 Weeks (Estimated)",
+          "objective": "Build an unbreakable foundation in problem solving, algorithms, and core languages required for Software Developer.",
+          "topics": [
+            "Memory management, time and space complexity (Big-O notation)",
+            "Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables",
+            "Object-Oriented Programming (OOP) and Modular Code Organization",
+            "Git version control and command line navigation"
+          ],
+          "practical_tasks": [
+            "Solve 25 beginner algorithmic problems on LeetCode/NeetCode in your chosen language",
+            "Initialize a GitHub profile and push clean, well-commented code daily"
+          ],
+          "project": {
+            "title": "Algorithmic Problem Bank & CLI Utility",
+            "description": "Create a command-line application that implements fundamental data structures from scratch."
+          },
+          "resources": [
+            {
+              "name": "CS50x: Intro to Computer Science",
+              "url": "https://cs50.harvard.edu/x/",
+              "provider": "Harvard"
+            },
+            {
+              "name": "Git & GitHub Complete Guide",
+              "url": "https://skills.github.com/",
+              "provider": "GitHub"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p1_c1",
+              "label": "Understand Big-O time and space complexity"
+            },
+            {
+              "key": "p1_c2",
+              "label": "Implement Arrays, Hash Tables, and Linked Lists from scratch"
+            },
+            {
+              "key": "p1_c3",
+              "label": "Master Git branching, commits, and pull requests"
+            }
+          ]
+        },
+        {
+          "phase": 2,
+          "title": "Phase 2: Core Technical Specialization",
+          "duration": "6 - 8 Weeks (Estimated)",
+          "objective": "Deep-dive into the primary technologies and frameworks used daily by Software Developers.",
+          "topics": [
+            "Deep dive into Java concepts, design patterns, and idiomatic practices",
+            "Deep dive into Python concepts, design patterns, and idiomatic practices",
+            "Deep dive into Data Structures concepts, design patterns, and idiomatic practices",
+            "Deep dive into Algorithms concepts, design patterns, and idiomatic practices"
+          ],
+          "practical_tasks": [
+            "Build 2 focused mini-apps exercising Java and Python",
+            "Implement automated testing and relational/non-relational database models"
+          ],
+          "project": {
+            "title": "CLI Task & Expense Manager",
+            "description": "Build an interactive command-line app with file/SQLite storage and CRUD commands."
+          },
+          "resources": [
+            {
+              "name": "freeCodeCamp Certification Track",
+              "url": "https://www.freecodecamp.org/learn",
+              "provider": "freeCodeCamp"
+            },
+            {
+              "name": "Official Language Documentation",
+              "url": "https://developer.mozilla.org/en-US/",
+              "provider": "MDN Web Docs"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p2_c1",
+              "label": "Complete core tutorials for Java"
+            },
+            {
+              "key": "p2_c2",
+              "label": "Design and query a normalized SQL/NoSQL database schema"
+            },
+            {
+              "key": "p2_c3",
+              "label": "Write unit tests validating critical edge cases"
+            }
+          ]
+        },
+        {
+          "phase": 3,
+          "title": "Phase 3: Real-World Practical Projects",
+          "duration": "4 - 6 Weeks (Estimated)",
+          "objective": "Build comprehensive, production-grade applications that solve genuine problems and showcase architectural competence.",
+          "topics": [
+            "Secure user authentication (JWT / OAuth2 / Sessions)",
+            "RESTful API architecture and clean separation of concerns",
+            "State management, caching, and error resilience",
+            "Security best practices (OWASP Top 10)"
+          ],
+          "practical_tasks": [
+            "Build a capstone application featuring full CRUD, search, filter, and pagination",
+            "Deploy the project on modern cloud providers (Vercel, Render, Railway, AWS)"
+          ],
+          "project": {
+            "title": "RESTful Inventory API",
+            "description": "Create a Node.js/Python microservice with JWT auth, database persistence, and documentation."
+          },
+          "resources": [
+            {
+              "name": "Full Stack Open Curriculum",
+              "url": "https://fullstackopen.com/en/",
+              "provider": "University of Helsinki"
+            },
+            {
+              "name": "OWASP Security Essentials",
+              "url": "https://owasp.org/www-project-top-ten/",
+              "provider": "OWASP"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p3_c1",
+              "label": "Complete Capstone Application with working authentication"
+            },
+            {
+              "key": "p3_c2",
+              "label": "Deploy application live on the web with accessible URL"
+            },
+            {
+              "key": "p3_c3",
+              "label": "Document API endpoints and architecture in README"
+            }
+          ]
+        },
+        {
+          "phase": 4,
+          "title": "Phase 4: Portfolio, GitHub & Public Proof-of-Work",
+          "duration": "2 - 3 Weeks (Estimated)",
+          "objective": "Package your projects professionally so hiring managers and senior engineers can evaluate your skills within 60 seconds.",
+          "topics": [
+            "Writing compelling GitHub READMEs with architecture diagrams and demo GIFs",
+            "Creating a fast, mobile-responsive developer portfolio website",
+            "Clean code hygiene: linting, formatting, and informative commit history"
+          ],
+          "practical_tasks": [
+            "Pin your top 3 repositories on GitHub with informative READMEs",
+            "Publish your portfolio website showcasing live links and tech stacks"
+          ],
+          "project": {
+            "title": "Developer Portfolio & Case Study Showcase",
+            "description": "A polished personal site detailing your journey, projects, tech skills, and contact links."
+          },
+          "resources": [
+            {
+              "name": "GitHub Profile README Generator",
+              "url": "https://rahuldkjain.github.io/gh-profile-readme-generator/",
+              "provider": "Open Source"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p4_c1",
+              "label": "Create professional GitHub README for all featured projects"
+            },
+            {
+              "key": "p4_c2",
+              "label": "Deploy personal developer portfolio website"
+            },
+            {
+              "key": "p4_c3",
+              "label": "Verify all project demo links are live and functional"
+            }
+          ]
+        },
+        {
+          "phase": 5,
+          "title": "Phase 5: Resume Preparation & ATS Optimization",
+          "duration": "1 - 2 Weeks (Estimated)",
+          "objective": "Synthesize your achievements into a high-scoring, ATS-compliant 1-page resume tailored for hiring software.",
+          "topics": [
+            "ATS formatting rules: single-column layout, standard headers, no graphics",
+            "Action verbs and quantifiable metrics (Google XYZ format)",
+            "Customizing keywords for specific job postings"
+          ],
+          "practical_tasks": [
+            "Upload your draft resume into the AI Resume Analyzer to obtain an ATS score > 80%",
+            "Incorporate the suggested bullet point rewrites and missing technical keywords"
+          ],
+          "project": {
+            "title": "Targeted Professional Tech Resume",
+            "description": "A 1-page ATS-optimized resume emphasizing production projects, skills, and education."
+          },
+          "resources": [
+            {
+              "name": "Harvard Mignone Center Resume Guide",
+              "url": "https://careerservices.fas.harvard.edu/",
+              "provider": "Harvard"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p5_c1",
+              "label": "Run resume through the AI Resume Analyzer"
+            },
+            {
+              "key": "p5_c2",
+              "label": "Rewrite bullet points using quantifiable metrics"
+            },
+            {
+              "key": "p5_c3",
+              "label": "Export clean PDF and verify text selectability"
+            }
+          ]
+        },
+        {
+          "phase": 6,
+          "title": "Phase 6: Interview Practice & Job Applications",
+          "duration": "Ongoing (4 - 8 Weeks)",
+          "objective": "Practice technical and behavioral interviews, track applications, and secure student/fresher offers.",
+          "topics": [
+            "STAR method for behavioral questions",
+            "Technical whiteboard and coding interview communication",
+            "Application tracking and professional follow-ups"
+          ],
+          "practical_tasks": [
+            "Complete at least 5 mock interview sessions using our AI Mock Interview module",
+            "Submit 5-10 tailored applications weekly and track status in the Job Application Tracker"
+          ],
+          "project": {
+            "title": "Active Job Search Campaign",
+            "description": "Systematic application strategy with follow-ups, networking, and interview reviews."
+          },
+          "resources": [
+            {
+              "name": "Tech Interview Handbook",
+              "url": "https://www.techinterviewhandbook.org/",
+              "provider": "Yangshun Tay"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p6_c1",
+              "label": "Complete 5 AI Mock Interview sessions with score >= 7.5"
+            },
+            {
+              "key": "p6_c2",
+              "label": "Save and apply to 10 verified fresher openings in Job Tracker"
+            },
+            {
+              "key": "p6_c3",
+              "label": "Send professional networking messages on LinkedIn"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-10-26T08:47:13.531Z",
+      "updated_at": "2026-10-26T08:47:13.531Z"
+    },
+    {
+      "id": "8f704d6c-b7e0-45be-9e99-fbce86146bbd",
+      "user_id": "e50a78d6-46f0-4800-8a25-ac08f9442417",
+      "target_role": "Software Developer",
+      "phases": [
+        {
+          "phase": 1,
+          "title": "Phase 1: Fundamentals & Computer Science Core",
+          "duration": "4 - 6 Weeks (Estimated)",
+          "objective": "Build an unbreakable foundation in problem solving, algorithms, and core languages required for Software Developer.",
+          "topics": [
+            "Memory management, time and space complexity (Big-O notation)",
+            "Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables",
+            "Object-Oriented Programming (OOP) and Modular Code Organization",
+            "Git version control and command line navigation"
+          ],
+          "practical_tasks": [
+            "Solve 25 beginner algorithmic problems on LeetCode/NeetCode in your chosen language",
+            "Initialize a GitHub profile and push clean, well-commented code daily"
+          ],
+          "project": {
+            "title": "Algorithmic Problem Bank & CLI Utility",
+            "description": "Create a command-line application that implements fundamental data structures from scratch."
+          },
+          "resources": [
+            {
+              "name": "CS50x: Intro to Computer Science",
+              "url": "https://cs50.harvard.edu/x/",
+              "provider": "Harvard"
+            },
+            {
+              "name": "Git & GitHub Complete Guide",
+              "url": "https://skills.github.com/",
+              "provider": "GitHub"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p1_c1",
+              "label": "Understand Big-O time and space complexity"
+            },
+            {
+              "key": "p1_c2",
+              "label": "Implement Arrays, Hash Tables, and Linked Lists from scratch"
+            },
+            {
+              "key": "p1_c3",
+              "label": "Master Git branching, commits, and pull requests"
+            }
+          ]
+        },
+        {
+          "phase": 2,
+          "title": "Phase 2: Core Technical Specialization",
+          "duration": "6 - 8 Weeks (Estimated)",
+          "objective": "Deep-dive into the primary technologies and frameworks used daily by Software Developers.",
+          "topics": [
+            "Deep dive into Java concepts, design patterns, and idiomatic practices",
+            "Deep dive into Python concepts, design patterns, and idiomatic practices",
+            "Deep dive into Data Structures concepts, design patterns, and idiomatic practices",
+            "Deep dive into Algorithms concepts, design patterns, and idiomatic practices"
+          ],
+          "practical_tasks": [
+            "Build 2 focused mini-apps exercising Java and Python",
+            "Implement automated testing and relational/non-relational database models"
+          ],
+          "project": {
+            "title": "CLI Task & Expense Manager",
+            "description": "Build an interactive command-line app with file/SQLite storage and CRUD commands."
+          },
+          "resources": [
+            {
+              "name": "freeCodeCamp Certification Track",
+              "url": "https://www.freecodecamp.org/learn",
+              "provider": "freeCodeCamp"
+            },
+            {
+              "name": "Official Language Documentation",
+              "url": "https://developer.mozilla.org/en-US/",
+              "provider": "MDN Web Docs"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p2_c1",
+              "label": "Complete core tutorials for Java"
+            },
+            {
+              "key": "p2_c2",
+              "label": "Design and query a normalized SQL/NoSQL database schema"
+            },
+            {
+              "key": "p2_c3",
+              "label": "Write unit tests validating critical edge cases"
+            }
+          ]
+        },
+        {
+          "phase": 3,
+          "title": "Phase 3: Real-World Practical Projects",
+          "duration": "4 - 6 Weeks (Estimated)",
+          "objective": "Build comprehensive, production-grade applications that solve genuine problems and showcase architectural competence.",
+          "topics": [
+            "Secure user authentication (JWT / OAuth2 / Sessions)",
+            "RESTful API architecture and clean separation of concerns",
+            "State management, caching, and error resilience",
+            "Security best practices (OWASP Top 10)"
+          ],
+          "practical_tasks": [
+            "Build a capstone application featuring full CRUD, search, filter, and pagination",
+            "Deploy the project on modern cloud providers (Vercel, Render, Railway, AWS)"
+          ],
+          "project": {
+            "title": "RESTful Inventory API",
+            "description": "Create a Node.js/Python microservice with JWT auth, database persistence, and documentation."
+          },
+          "resources": [
+            {
+              "name": "Full Stack Open Curriculum",
+              "url": "https://fullstackopen.com/en/",
+              "provider": "University of Helsinki"
+            },
+            {
+              "name": "OWASP Security Essentials",
+              "url": "https://owasp.org/www-project-top-ten/",
+              "provider": "OWASP"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p3_c1",
+              "label": "Complete Capstone Application with working authentication"
+            },
+            {
+              "key": "p3_c2",
+              "label": "Deploy application live on the web with accessible URL"
+            },
+            {
+              "key": "p3_c3",
+              "label": "Document API endpoints and architecture in README"
+            }
+          ]
+        },
+        {
+          "phase": 4,
+          "title": "Phase 4: Portfolio, GitHub & Public Proof-of-Work",
+          "duration": "2 - 3 Weeks (Estimated)",
+          "objective": "Package your projects professionally so hiring managers and senior engineers can evaluate your skills within 60 seconds.",
+          "topics": [
+            "Writing compelling GitHub READMEs with architecture diagrams and demo GIFs",
+            "Creating a fast, mobile-responsive developer portfolio website",
+            "Clean code hygiene: linting, formatting, and informative commit history"
+          ],
+          "practical_tasks": [
+            "Pin your top 3 repositories on GitHub with informative READMEs",
+            "Publish your portfolio website showcasing live links and tech stacks"
+          ],
+          "project": {
+            "title": "Developer Portfolio & Case Study Showcase",
+            "description": "A polished personal site detailing your journey, projects, tech skills, and contact links."
+          },
+          "resources": [
+            {
+              "name": "GitHub Profile README Generator",
+              "url": "https://rahuldkjain.github.io/gh-profile-readme-generator/",
+              "provider": "Open Source"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p4_c1",
+              "label": "Create professional GitHub README for all featured projects"
+            },
+            {
+              "key": "p4_c2",
+              "label": "Deploy personal developer portfolio website"
+            },
+            {
+              "key": "p4_c3",
+              "label": "Verify all project demo links are live and functional"
+            }
+          ]
+        },
+        {
+          "phase": 5,
+          "title": "Phase 5: Resume Preparation & ATS Optimization",
+          "duration": "1 - 2 Weeks (Estimated)",
+          "objective": "Synthesize your achievements into a high-scoring, ATS-compliant 1-page resume tailored for hiring software.",
+          "topics": [
+            "ATS formatting rules: single-column layout, standard headers, no graphics",
+            "Action verbs and quantifiable metrics (Google XYZ format)",
+            "Customizing keywords for specific job postings"
+          ],
+          "practical_tasks": [
+            "Upload your draft resume into the AI Resume Analyzer to obtain an ATS score > 80%",
+            "Incorporate the suggested bullet point rewrites and missing technical keywords"
+          ],
+          "project": {
+            "title": "Targeted Professional Tech Resume",
+            "description": "A 1-page ATS-optimized resume emphasizing production projects, skills, and education."
+          },
+          "resources": [
+            {
+              "name": "Harvard Mignone Center Resume Guide",
+              "url": "https://careerservices.fas.harvard.edu/",
+              "provider": "Harvard"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p5_c1",
+              "label": "Run resume through the AI Resume Analyzer"
+            },
+            {
+              "key": "p5_c2",
+              "label": "Rewrite bullet points using quantifiable metrics"
+            },
+            {
+              "key": "p5_c3",
+              "label": "Export clean PDF and verify text selectability"
+            }
+          ]
+        },
+        {
+          "phase": 6,
+          "title": "Phase 6: Interview Practice & Job Applications",
+          "duration": "Ongoing (4 - 8 Weeks)",
+          "objective": "Practice technical and behavioral interviews, track applications, and secure student/fresher offers.",
+          "topics": [
+            "STAR method for behavioral questions",
+            "Technical whiteboard and coding interview communication",
+            "Application tracking and professional follow-ups"
+          ],
+          "practical_tasks": [
+            "Complete at least 5 mock interview sessions using our AI Mock Interview module",
+            "Submit 5-10 tailored applications weekly and track status in the Job Application Tracker"
+          ],
+          "project": {
+            "title": "Active Job Search Campaign",
+            "description": "Systematic application strategy with follow-ups, networking, and interview reviews."
+          },
+          "resources": [
+            {
+              "name": "Tech Interview Handbook",
+              "url": "https://www.techinterviewhandbook.org/",
+              "provider": "Yangshun Tay"
+            }
+          ],
+          "checklist": [
+            {
+              "key": "p6_c1",
+              "label": "Complete 5 AI Mock Interview sessions with score >= 7.5"
+            },
+            {
+              "key": "p6_c2",
+              "label": "Save and apply to 10 verified fresher openings in Job Tracker"
+            },
+            {
+              "key": "p6_c3",
+              "label": "Send professional networking messages on LinkedIn"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-10-26T08:53:13.197Z",
+      "updated_at": "2026-10-26T08:53:13.197Z"
+    }
+  ],
+  "roadmap_progress": [
+    {
+      "id": "rp-1",
+      "roadmap_id": "d0000000-0000-0000-0000-000000000004",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "phase_index": 1,
+      "item_key": "p1_c1",
+      "completed": true,
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "rp-2",
+      "roadmap_id": "d0000000-0000-0000-0000-000000000004",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "phase_index": 1,
+      "item_key": "p1_c2",
+      "completed": true,
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "rp-3",
+      "roadmap_id": "d0000000-0000-0000-0000-000000000004",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "phase_index": 1,
+      "item_key": "p1_c3",
+      "completed": true,
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "rp-4",
+      "roadmap_id": "d0000000-0000-0000-0000-000000000004",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "phase_index": 2,
+      "item_key": "p2_c1",
+      "completed": true,
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    },
+    {
+      "id": "rp-5",
+      "roadmap_id": "d0000000-0000-0000-0000-000000000004",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "phase_index": 2,
+      "item_key": "p2_c2",
+      "completed": false,
+      "updated_at": "2026-10-26T08:42:54.835Z"
+    }
+  ],
+  "resume_analyses": [
+    {
+      "id": "d0000000-0000-0000-0000-000000000005",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "file_name": "Priya_Sharma_Software_Resume.pdf",
+      "target_role": "Software Developer",
+      "ats_score": 84,
+      "summary": "Solid foundational profile with proven strengths in full-stack web development, Python scripting, and relational data modeling.",
+      "detected_skills": [
+        "REACT",
+        "NODE.JS",
+        "JAVASCRIPT",
+        "TYPESCRIPT",
+        "PYTHON",
+        "SQL",
+        "GIT",
+        "HTML5",
+        "TAILWIND"
+      ],
+      "education_experience_summary": "B.Tech Computer Science senior with coursework in Data Structures, Database Systems, and Web Engineering.",
+      "project_highlights": [
+        "E-Commerce platform with React, Express, and SQLite with clean auth",
+        "Algorithmic CLI Task Scheduler using Python"
+      ],
+      "keywords_found": [
+        "React",
+        "Node.js",
+        "Python",
+        "SQL",
+        "Git",
+        "REST API",
+        "Data Structures"
+      ],
+      "keywords_missing": [
+        "Docker",
+        "AWS",
+        "CI/CD Pipelines",
+        "Unit Testing"
+      ],
+      "strengths": [
+        "Clear project impact descriptions with GitHub repository links",
+        "Strong technical core with modern programming languages",
+        "Clean standard single-column ATS formatting"
+      ],
+      "weaknesses": [
+        "Lacks quantifiable engineering performance metrics (latency reduction, query times)",
+        "Containerization and cloud deployment experience not explicitly highlighted"
+      ],
+      "actionable_improvements": [
+        "Incorporate Docker and CI/CD keywords into your project toolkits.",
+        "Add quantitative metrics to your e-commerce project description (e.g. \"Achieved 99.5% uptime\").",
+        "List automated unit tests written for your RESTful API microservice."
+      ],
+      "ats_feedback": {
+        "formatting": "Excellent single-column layout adhering strictly to standard recruiter parsers.",
+        "keyword_density": "Good density of core languages; consider adding DevOps terminology.",
+        "impact_phrasing": "Action verbs like \"Engineered\", \"Architected\", and \"Designed\" used effectively."
+      },
+      "suggested_roles": [
+        "Software Developer",
+        "Full Stack Developer",
+        "Junior Backend Engineer"
+      ],
+      "improved_outline": {
+        "suggested_headline": "Software Developer | Specializing in React, Node.js & Distributed Data Systems",
+        "sample_bullet_rewrites": [
+          {
+            "original": "Built an e-commerce website using React and Node",
+            "improved": "Architected responsive full-stack e-commerce portal supporting 50+ product listings with 200ms average query latency."
+          }
+        ]
+      },
+      "created_at": "2026-10-26T08:42:54.836Z"
+    }
+  ],
+  "chat_sessions": [
+    {
+      "id": "14bf5021-efd0-480b-8b58-f4537842a480",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "title": "Career Advisory Conversation",
+      "language": "en",
+      "created_at": "2026-10-26T08:47:26.022Z",
+      "updated_at": "2026-10-26T08:47:26.022Z"
+    },
+    {
+      "id": "825f44ca-1468-4c08-b94c-28febbd4e4ca",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "title": "Career Advisory Conversation",
+      "language": "ta",
+      "created_at": "2026-10-26T08:48:22.852Z",
+      "updated_at": "2026-10-26T08:48:22.852Z"
+    },
+    {
+      "id": "07747d27-fde9-4f37-98f3-3097a53b5277",
+      "user_id": "e50a78d6-46f0-4800-8a25-ac08f9442417",
+      "title": "Career Advisory Conversation",
+      "language": "en",
+      "created_at": "2026-10-26T08:53:52.480Z",
+      "updated_at": "2026-10-26T08:53:52.480Z"
+    }
+  ],
+  "chat_messages": [
+    {
+      "id": "dbd33270-32c5-446c-a935-0d4cf83eb504",
+      "session_id": "14bf5021-efd0-480b-8b58-f4537842a480",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "user",
+      "content": "How can I prepare for a software developer interview?",
+      "created_at": "2026-10-26T08:47:26.024Z"
+    },
+    {
+      "id": "a5f18a5c-3e0f-4d5b-b1a6-05983b57294e",
+      "session_id": "14bf5021-efd0-480b-8b58-f4537842a480",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "assistant",
+      "content": "**Mock Interview Preparation Strategy:**\n\n1. **Master the Fundamentals:** Deeply understand time complexities, OOP design principles, and REST API conventions.\n2. **The STAR Framework:** Structure behavioral answers around **S**ituation, **T**ask, **A**ction, and **R**esult.\n3. **Practice Out Loud:** Use our **Mock Interview** module with speech-to-text to test your answers against real technical criteria!",
+      "created_at": "2026-10-26T08:47:26.027Z"
+    },
+    {
+      "id": "e3e6ff72-eb5e-4602-83f7-9f0c38843169",
+      "session_id": "14bf5021-efd0-480b-8b58-f4537842a480",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "user",
+      "content": "How can I prepare for a software developer interview?",
+      "created_at": "2026-10-26T08:47:59.951Z"
+    },
+    {
+      "id": "bfc130dc-dcca-4a95-b2f8-5b2f3742cf57",
+      "session_id": "14bf5021-efd0-480b-8b58-f4537842a480",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "assistant",
+      "content": "**Mock Interview Preparation Strategy:**\n\n1. **Master the Fundamentals:** Deeply understand time complexities, OOP design principles, and REST API conventions.\n2. **The STAR Framework:** Structure behavioral answers around **S**ituation, **T**ask, **A**ction, and **R**esult.\n3. **Practice Out Loud:** Use our **Mock Interview** module with speech-to-text to test your answers against real technical criteria!",
+      "created_at": "2026-10-26T08:47:59.954Z"
+    },
+    {
+      "id": "8eac8d57-fcd6-4aa7-8cb7-93dde0d2ba3b",
+      "session_id": "825f44ca-1468-4c08-b94c-28febbd4e4ca",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "user",
+      "content": "???????, ???? ?????? ?????????? ????????? ?????",
+      "created_at": "2026-10-26T08:48:22.856Z"
+    },
+    {
+      "id": "e3b3349d-1bd2-4db4-b220-db0d49f876a2",
+      "session_id": "825f44ca-1468-4c08-b94c-28febbd4e4ca",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "role": "assistant",
+      "content": "வணக்கம் Priya Sharma! உங்கள் தொழில் தேர்வு மற்றும் திறன் மேம்பாட்டிற்கு நான் உதவ தயாராக உள்ளேன்.\n\n- **பரிந்துரைக்கப்பட்ட வேலைகள்:** உங்கள் திறன்களுக்கேற்ப மென்பொருள் பொறியாளர், தரவு ஆய்வாளர் போன்ற வாய்ப்புகள் உள்ளன.\n- **அடுத்த படி:** எங்கள் 'Career Assessment' அல்லது 'Skill Gap' பக்கங்களை பார்வையிடுங்கள்!\n\n*(குறிப்பு: நேரடி LLM பதில்களுக்கு சேவையகத்தில் GEMINI_API_KEY சேர்க்கப்பட வேண்டும்).*",
+      "created_at": "2026-10-26T08:48:22.859Z"
+    }
+  ],
+  "mock_interview_sessions": [
+    {
+      "id": "d0000000-0000-0000-0000-000000000006",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "target_role": "Software Developer",
+      "experience_level": "Student / Fresher",
+      "category": "technical",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Explain the difference between process and thread, and how memory is shared."
+        },
+        {
+          "id": 2,
+          "text": "What is the time complexity of searching in a balanced BST vs an unsorted array?"
+        },
+        {
+          "id": 3,
+          "text": "How do RESTful APIs handle idempotency, and which HTTP methods are idempotent?"
+        }
+      ],
+      "overall_score": 8.3,
+      "overall_feedback": "Demonstrated strong foundational knowledge of operating systems and database design.",
+      "status": "completed",
+      "created_at": "2026-10-26T08:42:54.836Z",
+      "updated_at": "2026-10-26T08:42:54.836Z"
+    },
+    {
+      "id": "4a1e1a1c-6cd9-48f9-a563-74828bc22ea6",
+      "user_id": "e50a78d6-46f0-4800-8a25-ac08f9442417",
+      "target_role": "Software Developer",
+      "experience_level": "Student / Fresher",
+      "category": "technical",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Explain the difference between process and thread, and how memory is shared between them.",
+          "criteria": "Memory space separation, thread stack vs heap, context switching overhead."
+        },
+        {
+          "id": 2,
+          "text": "What is the time and space complexity of searching in a balanced Binary Search Tree vs an unsorted array?",
+          "criteria": "O(log N) vs O(N) time complexity, tree balancing rationale."
+        },
+        {
+          "id": 3,
+          "text": "How do RESTful APIs handle idempotency, and which HTTP methods are idempotent?",
+          "criteria": "GET, PUT, DELETE are idempotent; POST is not. Explanation of duplicate requests."
+        },
+        {
+          "id": 4,
+          "text": "Explain the ACID properties of relational databases with a real banking transfer example.",
+          "criteria": "Atomicity, Consistency, Isolation, Durability with rollback scenario."
+        },
+        {
+          "id": 5,
+          "text": "How does garbage collection work in languages like Java or Node.js?",
+          "criteria": "Mark and sweep, reference counts, generation phases, memory leak prevention."
+        }
+      ],
+      "overall_score": 0,
+      "overall_feedback": "",
+      "status": "in_progress",
+      "created_at": "2026-10-26T08:57:46.026Z",
+      "updated_at": "2026-10-26T08:57:46.026Z"
+    }
+  ],
+  "interview_answers": [],
+  "saved_jobs": [
+    {
+      "id": "job-seed-1",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "job_id": "starter-2",
+      "title": "Frontend React Developer Intern",
+      "company": "Freshworks Inc.",
+      "location": "Chennai / Hybrid",
+      "work_mode": "hybrid",
+      "apply_url": "https://www.freshworks.com/company/careers/",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Tailwind CSS",
+        "REST APIs"
+      ],
+      "status": "interviewing",
+      "notes": "Technical round scheduled with engineering lead for Friday afternoon.",
+      "applied_date": "2026-10-22",
+      "created_at": "2026-10-22T00:00:00.000Z",
+      "updated_at": "2026-10-26T08:42:54.836Z"
+    },
+    {
+      "id": "job-seed-2",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "job_id": "starter-1",
+      "title": "Junior Software Engineer (Fresher / 2026 Batch)",
+      "company": "TCS Innovation Labs",
+      "location": "Bengaluru / Hybrid",
+      "work_mode": "hybrid",
+      "apply_url": "https://www.tcs.com/careers/entry-level-hiring",
+      "skills": [
+        "Java",
+        "SQL",
+        "Data Structures",
+        "Git"
+      ],
+      "status": "applied",
+      "notes": "Applied through campus drive referral portal.",
+      "applied_date": "2026-10-20",
+      "created_at": "2026-10-20T00:00:00.000Z",
+      "updated_at": "2026-10-26T08:42:54.836Z"
+    },
+    {
+      "id": "job-seed-3",
+      "user_id": "d0000000-0000-0000-0000-000000000002",
+      "job_id": "starter-3",
+      "title": "Data Analyst Trainee",
+      "company": "Zoho Corporation",
+      "location": "Tenkasi / Chennai / Onsite",
+      "work_mode": "onsite",
+      "apply_url": "https://www.zoho.com/careers/",
+      "skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Data Visualization"
+      ],
+      "status": "bookmarked",
+      "notes": "Reviewing SQL questions before submitting application.",
+      "applied_date": null,
+      "created_at": "2026-10-24T00:00:00.000Z",
+      "updated_at": "2026-10-26T08:42:54.836Z"
+    }
+  ],
+  "admin_audit_logs": []
+}

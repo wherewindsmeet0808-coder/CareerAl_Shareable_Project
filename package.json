@@ -1,0 +1,25 @@
+{
+  "name": "ai-career-guidance",
+  "version": "1.0.0",
+  "description": "Full-Stack AI Career Guidance Platform for Students & Freshers (React, Node.js, Supabase, Gemini AI)",
+  "scripts": {
+    "server": "node server/src/index.js",
+    "client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "start": "node server/src/index.js",
+    "test": "node --test server/tests/*.test.js"
+  },
+  "keywords": [
+    "career-guidance",
+    "ai",
+    "gemini",
+    "supabase",
+    "react",
+    "ats-resume",
+    "mock-interview",
+    "skill-gap",
+    "tamil-english"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}
